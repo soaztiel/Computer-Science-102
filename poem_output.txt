@@ -1,0 +1,8 @@
+Title: Snowball
+Author: Shel Silverstein
+Number of lines: 8
+
+First 3 lines:
+1. I made myself a snowball
+2. As perfect as could be.
+3. I thought I’d keep it as a pet
